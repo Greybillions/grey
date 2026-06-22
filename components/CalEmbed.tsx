@@ -89,7 +89,7 @@ export default function BookCall() {
           </a>
         </div>
 
-        <div className='book-call-calendar overflow-hidden rounded-3xl border border-zinc-800'>
+        <div className='book-call-calendar overflow-auto rounded-3xl border border-zinc-800'>
           <Cal
             namespace='30min'
             calLink='grey1511/30min'
