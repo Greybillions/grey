@@ -80,7 +80,7 @@ export default function BookCall() {
           </a>
 
           <a
-            href='https://x.com/greybillionz'
+            href='https://x.com/greybilli0ns'
             target='_blank'
             rel='noopener noreferrer'
             className='rounded-full border border-zinc-800 p-3 text-zinc-400 transition-all hover:border-zinc-700 hover:text-white'
