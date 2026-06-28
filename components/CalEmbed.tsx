@@ -49,7 +49,7 @@ export default function BookCall() {
             href='mailto:grahamboyle22@gmail.com'
             className='inline-flex items-center text-base font-medium text-[#fafafa] transition hover:text-zinc-300'
           >
-            Send an email to grahamboyle22@gmail.com →
+            Send an email to greylabs.global@gmail.com →
           </a>
         </div>
 
@@ -64,7 +64,7 @@ export default function BookCall() {
           </a>
 
           <a
-            href='mailto:grahamboyle22@gmail.com'
+            href='mailto:greylabs.global@gmail.com'
             className='rounded-full border border-zinc-800 p-3 text-zinc-400 transition-all hover:border-zinc-700 hover:text-white'
           >
             <Mail size={18} />
